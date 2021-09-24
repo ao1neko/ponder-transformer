@@ -5,7 +5,7 @@ from torch import nn, einsum
 from einops import rearrange, repeat
 from einops.layers.torch import Rearrange, Reduce
 
-# constants
+# constantss
 
 ABS_MAX_STEPS = 100
 
